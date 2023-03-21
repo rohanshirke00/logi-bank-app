@@ -12,6 +12,8 @@
 -  JavaScript 
 -  Firebase (Firestore database)
 
+## See the Demo video: [Click here](https://youtu.be/ni_5H5WhMkE)
+
 ### Screenshots of the website
 ![](images/1.png)
 
