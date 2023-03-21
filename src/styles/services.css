@@ -1,0 +1,50 @@
+
+#services {
+    background-color: #fff;
+    text-align: center;
+    padding: 5% 10%;
+    color: #2328b1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    display: flex;
+}
+
+
+.my-services{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.card-image{
+    width: 150px;
+    height: 150px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+
+.service-heading{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.service-box{
+    padding: 5px 0px;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.flash-card{
+    background-color: #2328b1;
+    color: #fff;
+    border-radius: 10px;
+    max-width: 250px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+}

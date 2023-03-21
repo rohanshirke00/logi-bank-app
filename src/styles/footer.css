@@ -1,0 +1,26 @@
+
+/* Footer Section */
+
+
+#footer{
+    background-color: #3fa7a757;
+    color: #2328b1;
+    text-align: center;
+    padding: 3% 10%;;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.social-icon{
+    margin: 20px 10px;
+    font-size: 1rem;
+}
+
+.social-icon:hover{
+    color: #8f8f8f;
+    cursor: pointer;
+}
+
+.copyright{
+    color: #2328b1;
+    font-weight: bold;
+}

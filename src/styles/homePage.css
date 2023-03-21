@@ -1,0 +1,46 @@
+
+.hero{
+    background-color: #fff;
+    color: #2328b1;
+    text-align: left;
+    padding: 5% 10% 5%;
+    text-align: center;
+}
+
+.hero-img {
+    width: 100%;
+}
+
+.big-heading{
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: bold;
+    
+  }
+
+.download-button{
+    margin: 5% auto 0;
+}
+
+.download-button:hover{
+    cursor: pointer;
+    color: #fff;
+}
+
+.download-button > a{
+    text-decoration: none;
+}
+
+.download-button > a:hover{
+    color: white;
+}
+
+/* Media Queries */
+@media (max-width:990px) {
+    
+    .hero-img {
+        width: 100%;
+        margin-top: 14%;
+    }
+
+}

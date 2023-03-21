@@ -1,0 +1,30 @@
+
+/* Feature Section */
+
+#features {
+    background-color: #3fa7a757;
+    text-align: center;
+    padding: 3% 10%;
+    color: #2328b1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.feature-heading{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.feature-box{
+    padding: 5%;
+}
+
+
+.icon{
+    color: rgb(3, 121, 3);
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: rgb(193, 193, 169);
+}
+
